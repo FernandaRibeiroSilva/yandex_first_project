@@ -1,4 +1,4 @@
-# This project was developed during the Yandex.Practikum course: As a result, a landing page was created "How to learn"
+# This project was developed during the Yandex.Practikum course: As a result, a landing page was created "How to learn".
 
 
 ### In order to complete this work, was used the basic knowledge of HTML and CSS. 

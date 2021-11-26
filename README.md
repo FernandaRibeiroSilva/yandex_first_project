@@ -1,7 +1,7 @@
-# This project was developed during the Yandex.Practikum course: As a result, a landing page was created "How to learn".
+# This project was developed as part of the Yandex.Practikum project. As a result, the landing page "How to learn" was created.
 
 
-### In order to complete this work, was used the basic knowledge of HTML and CSS. 
+### In order to complete this work, the basic knowledge of HTML and CSS were used. 
 
 ### Technologies: 
 * Flexbox 
